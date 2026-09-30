@@ -6,4 +6,4 @@
 
 ## Screenshot
 
-![Screenshot Aplikasi](screenshots/Tugas3.png)
+<img src="screenshots/Tugas3.png" width="400" alt="Screenshot Aplikasi">
